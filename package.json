@@ -1,0 +1,16 @@
+{
+  "name": "const",
+  "version": "0.0.1",
+  "main": "src/const.js",
+  "scripts": {
+    "test": "mocha",
+    "prepublish": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hughfdjackson/const.git"
+  },
+  "keywords": [],
+  "author": "hughfdjackson",
+  "license": "BSD"
+}
