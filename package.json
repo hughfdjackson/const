@@ -14,6 +14,6 @@
     "mocha": "1.8.1"
   },
   "keywords": ["constant", "const", "lift", "k", "K", "combinator"],
-  "author": "Hugh FD Jackson <hughfdjackson@",
+  "author": "Hugh FD Jackson <hughfdjackson@googlemail.com>",
   "license": "MIT"
 }
