@@ -15,8 +15,8 @@ getUserDetails()
 	.then(getMessageFromUser, constant('User not found'))
 ```
 
-
 Other names it's gone by in the past:
+
 * K combinator
 * lift
 * always
