@@ -1,6 +1,6 @@
 {
   "name": "const",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "src/const.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha --reporter spec",
@@ -13,7 +13,14 @@
   "devDependencies": {
     "mocha": "1.8.1"
   },
-  "keywords": ["constant", "const", "lift", "k", "K", "combinator"],
+  "keywords": [
+    "constant",
+    "const",
+    "lift",
+    "k",
+    "K",
+    "combinator"
+  ],
   "author": "Hugh FD Jackson <hughfdjackson@googlemail.com>",
   "license": "MIT"
 }
